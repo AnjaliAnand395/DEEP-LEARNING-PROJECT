@@ -21,3 +21,5 @@ Mentor : NEELA SANTOSH
 ##Model Training and Evaluation: Train the model and evaluate its performance.
 
 ##Results Visualization: Plot the training process and performance metrices.
+
+##The architecture of the deep learning model, including the number of layers, activation functions, and parameters, is printed.
