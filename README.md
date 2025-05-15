@@ -23,3 +23,7 @@ Mentor : NEELA SANTOSH
 ##Results Visualization: Plot the training process and performance metrices.
 
 ##The architecture of the deep learning model, including the number of layers, activation functions, and parameters, is printed.
+
+OUTPUT
+
+![Image](https://github.com/user-attachments/assets/4a18a561-1f68-4a8c-beb8-a8f261bfe24e)
